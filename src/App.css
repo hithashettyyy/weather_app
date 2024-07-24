@@ -1,0 +1,8 @@
+.container{
+    margin: 1rem;
+    padding: 1rem;
+    background-image: linear-gradient(to bottom right,rgb(85, 162, 224), blue);
+    margin-right: 1rem;
+}
+
+

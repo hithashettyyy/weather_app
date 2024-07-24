@@ -1,0 +1,24 @@
+.input-div{
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+    width: 100%;
+    gap: 1rem;
+    align-items: center;
+}
+
+.input-div > input{
+    padding: 0.6rem;
+    border: none;
+    width:60%
+}
+
+.input-div > input:focus{
+    outline: none;
+}
+
+
+input{
+    color: black;
+}
+
